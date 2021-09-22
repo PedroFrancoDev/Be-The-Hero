@@ -1,2 +1,3 @@
 # Be The Hero
- Este é o front-end do Be The Hero, desenvolve na semana omniStack da rocketseat., feito com React JS.
+ Este é o front-end do Be The Hero, desenvolve na semana omniStack da Rocketseat, feito com React JS.
+ Foi mais um desafio concretisado durante o curso de React JS...
